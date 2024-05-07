@@ -1,4 +1,4 @@
-# compilers_mini_project
+# NLP
 
 pip install pandas
 pip install seaborn
